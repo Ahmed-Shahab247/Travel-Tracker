@@ -1,5 +1,7 @@
 # 🌍 Travel Tracker
 
+
+{Code is in master branch}
 A web app to track the countries you've visited! Built using **Node.js, Express, PostgreSQL, and EJS**.
 
 ---
